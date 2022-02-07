@@ -27,4 +27,6 @@ If chromeDriver is throwing error that it cannot run on mac
 then goto teminal and navigate to chromedriver path
 and run this command
 
-        xattr -d com.apple.quarantine chromedriver */
+        xattr -d com.apple.quarantine chromedriver
+  https://stackoverflow.com/questions/60362018/macos-catalinav-10-15-3-error-chromedriver-cannot-be-opened-because-the-de
+         */
